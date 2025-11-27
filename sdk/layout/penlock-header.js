@@ -21,6 +21,7 @@ export class PenlockHeader extends El {
                 display: flex;
                 flex-direction: column;
                 align-items: center;
+                padding-top: 14em;
 
                 gap: var(--gap-m);
 
